@@ -1,7 +1,8 @@
 # The Unsolved Case
 
 ## The Discovery
-Late one night, something unusual was found in a place everyone thought they knew well.
+Late one night, something unusual was found in a place everyone thought they knew well. Chris found that his favorite
+rubber duck had went missing overnight.
 
 ## The Witnesses
 Several people noticed strange events, but none reported them immediately.
