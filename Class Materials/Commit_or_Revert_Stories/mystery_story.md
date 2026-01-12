@@ -2,7 +2,7 @@
 
 ## The Discovery
 Late one night, something unusual was found in a place everyone thought they knew well. Chris found that his favorite
-rubber duck had went missing overnight.
+rubber duck had went missing overnight. Nobody had seen anyone enteer the room or even make any noise in the house.
 
 ## The Witnesses
 Several people noticed strange events, but none reported them immediately.
