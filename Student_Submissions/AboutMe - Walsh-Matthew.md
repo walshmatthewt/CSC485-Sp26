@@ -10,8 +10,8 @@ My name is Matthew Walsh. But I like to go by Matt.
 
 ## Favorite Food:
 
-What is your favorite food? Lasagna
-What is your favorite cuisine? Italian
+-What is your favorite food? Lasagna
+-What is your favorite cuisine? Italian
 
 ## Hobbies:
 
@@ -22,7 +22,7 @@ What is your favorite cuisine? Italian
 
 ## What you want to do when you graduate?
 
-Financial Analyst
+-Financial Analyst
 
 ## What's your favorite vacation spot?
 
